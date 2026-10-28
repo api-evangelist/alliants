@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Alliants is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://alliants.com/
+Alliants provides a cloud‑based platform that enables hotels and hospitality venues to deliver seamless digital guest experiences. Their solutions include contactless digital keys, AI‑driven concierge services, mobile payments, guest apps, and analytics that help operators improve efficiency, increase revenue, and boost Net Promoter Scores. Alliants integrates with existing property management systems and offers a suite of APIs for managing access, payments, and guest communications, positioning itself as a modern, SaaS‑enabled hospitality technology provider.
+
+**Areas:** Company · Hospitality · SaaS · DigitalKeys · GuestExperience
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.alliants.com/)
+- [Pricing](https://www.alliants.com/pricing)
+- [Support](https://www.alliants.com/contact-us)
+- [Blog](https://www.alliants.com/newsroom)
+- [Compliance](https://trust.alliants.com/)
+- [Privacy policy](https://www.alliants.com/documents/privacy-notice)
+- [GitHub](https://github.com/Alliants)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/alliants/](https://apis.io/providers/alliants/).
